@@ -10,7 +10,7 @@ For try it with Stock ROM:
 ---------------
 
  - cd ROM-Stock
- - ./createSD_Stock.sh
+ - sudo ./createSD_Stock.sh
 
 For try it with CyanogenMod:
 ---------------
@@ -18,6 +18,7 @@ For try it with CyanogenMod:
  - cd ROM-CM
  - sudo ./createSD_CM.sh
 
+Note: sudo is required for unpack the original stock ROM and for format the SD
 
 
 Status
