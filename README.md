@@ -9,14 +9,14 @@ WARNING: This is still Work In Progress
 For try it with Stock ROM:
 ---------------
 
- cd ROM-Stock
- ./createSD_Stock.sh
+ - cd ROM-Stock
+ - ./createSD_Stock.sh
 
 For try it with CyanogenMod:
 ---------------
 
- cd ROM-CM
- sudo ./createSD_CM.sh
+ - cd ROM-CM
+ - sudo ./createSD_CM.sh
 
 
 
